@@ -30,8 +30,18 @@
 		- [Devserver config](https://youtu.be/AoPDBBbInzc?t=2563)
 		</details>
 2. [React. Base](https://www.youtube.com/watch?v=cJ9gGiH9UzA&feature=youtu.be&ab_channel=RollingScopesSchool).
-	Следующая лекция
-	<details><summary>Интересные моменты</summary>
+	- [Офииальная документация](https://ru.reactjs.org/docs/getting-started.html)
+	- [Презентация](https://docs.google.com/presentation/d/1Zl61lcoJPN81-jZhYTfjkPZkid7DLM0pGN3rK2N0ZZc/edit#slide=id.p)
+	- <details><summary>Интересные моменты</summary>
 
-	- []().
+		- [Create react app](https://youtu.be/cJ9gGiH9UzA?t=701).
+		- [Create react app HAbr](https://habr.com/ru/company/plarium/blog/326520/)
+		- [Stace class](https://youtu.be/cJ9gGiH9UzA?t=1444). setState(updater[,callback(prevstate, ptops)]). Callback вызывается после апдейта.
+		- [Lifecycle](https://youtu.be/cJ9gGiH9UzA?t=1739). Все об обновлении компонентов (подробно).
+			- [Lifecycle Diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/).
+			- [getDerivedstateFromProps](https://youtu.be/cJ9gGiH9UzA?t=2617).
+			- [shoudComponentUpdate](https://youtu.be/cJ9gGiH9UzA?t=2680). Можно уравлять ледует ли обновлять компонент на основе нового значения пропсов\стэйта.
+			- [getSnapshotBeforeUpdate](https://youtu.be/cJ9gGiH9UzA?t=2768).
+		- [Dom event handling](https://youtu.be/cJ9gGiH9UzA?t=2893). About event handling by REACT (refs to each react event see on presentation).
+		- [Key](https://youtu.be/cJ9gGiH9UzA?t=2934). Key - compontnrt identifier.
 	</details>
